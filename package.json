@@ -1,0 +1,20 @@
+{
+  "name": "pumped-up-kicks-backend",
+  "version": "1.0.0",
+  "description": "Back end for the shoe bot",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.1.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "nodemon": "^1.19.3",
+    "pg-promise": "^9.3.3",
+    "pm2": "^4.0.0"
+  }
+}
