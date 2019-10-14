@@ -16,5 +16,6 @@
     "nodemon": "^1.19.3",
     "pg-promise": "^9.3.3",
     "pm2": "^4.0.0"
-  }
+  },
+  "devDependencies": {}
 }
